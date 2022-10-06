@@ -10,10 +10,12 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- AWS current recommendations to use when designing cloud architectures with security
+- Strategies to use when designing cloud architectures
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Build architectures that protect the data and systems
+- Build system using AWS recommendations and strategies
 
 
 ## Lesson Plan
