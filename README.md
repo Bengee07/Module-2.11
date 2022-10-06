@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Principles in Cloud Architecture Design - Security
 
 ## Dependencies
 
