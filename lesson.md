@@ -6,7 +6,9 @@
 ### Self Study Check In
 
 Q1: How important security for you?
+
 Q2: Do you trust people around you?
+
 Q3: How do you manage permissions for people and machines?
 
 
