@@ -1,7 +1,7 @@
 ## Brief
 
 ### Preparation
--
+
 
 ### Self Study Check In
 
