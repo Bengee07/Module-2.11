@@ -193,3 +193,22 @@ Best Practices:
 - **Run game days:** Practice incident response game days (simulations) regularly, incorporate lessons learned into your incident management plans, and continuously improve.
 
 ---
+
+### Activity - Understanding Security
+
+Based on this module, there are few items mentioned:
+- Security
+- Identity and Access Management
+- Detection
+- Infrastructure Protection
+- Data Protection
+- Incident Response
+
+In this activity, gather into your own group and each group should take on one research problem. Ensure all research problems are taken and presented by the end of this section.
+
+
+|Research Problem|Answer|
+|----------------|------|
+|How do you classify your data?|*Name 3 and explain them*|
+|How do you protect your data at rest?|*Explain application modernization*|
+|How do you anticipate, respond to, and recover from incidents?|*Name 3 and explain them*|
