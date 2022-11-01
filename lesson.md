@@ -33,6 +33,31 @@ In the cloud, there are a number of principles that can help you strengthen your
 - **Prepare for security events:** Prepare for an incident by having incident management and investigation policy and processes that align to your organizational requirements. Run incident response simulations and use tools with automation to increase your speed for detection, investigation, and recovery.
 
 
+### Activity - Understanding Security
+
+Based on this module, there are few items mentioned:
+- Implement a strong identity foundation
+- Enable traceability
+- Apply security at all layers
+- Automate security best practices
+- Protect data in transit and at rest
+- Keep people away from data
+- Prepare for security events
+
+In this activity, gather into your own group and each group should take on one or two research problem. Ensure all research problems are taken and presented by the end of this section.
+
+
+|Research Topic|Answer|
+|----------------|------|
+|Implement a strong identity foundation|*Make few key activities and explain them*|
+|Enable traceability|*Make few key activities and explain them*|
+|Apply security at all layers|*Make few key activities and explain them*|
+|Automate security best practices|*Make few key activities and explain them*|
+|Protect data in transit and at rest|*Make few key activities and explain them*|
+|Keep people away from data|*Make few key activities and explain them*|
+|Prepare for security events|*Make few key activities and explain them*|
+
+
 ---
 
 ## Part 2 - Best Practice for Security - Group Discussion
